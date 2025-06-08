@@ -14,6 +14,8 @@
 - Building toolkits and resources to support clinicians starting in research.
 - Exploring AI and ML applications to improve research delivery (site set-up, monitoring, auditing, close-down, archiving).
 - Advancing my skills in clinical data science and statistics to guide decisions in the R&D industry.
+- Supporting new people in developing their research skills (study design, data analyses, publication).
+- Peer-reviewer for scientific journals (e.g. Elsevier, Springer Nature, Taylor & Francis, Sage, Frontiers, Cambridge University Press, Oxford University Press).
 
 - ## 🏅 Qualifications & Certifications
 
