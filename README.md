@@ -31,7 +31,7 @@
 
 ## 🌍 Connect
 - LinkedIn: [https://www.linkedin.com/in/allan-bregola-b5a210130/]
-- GitHub: [https://github.com/allanbrig]
+- GitHub: [https://github.com/allanbregola]
 - ORCID: [https://orcid.org/0000-0003-0265-4940]
 
 ---
