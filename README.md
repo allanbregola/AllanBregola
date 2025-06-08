@@ -18,7 +18,8 @@
 - ## 🏅 Qualifications & Certifications
 
 - 🎓 **PhD in Health Sciences (Nursing)** — Federal University of São Carlos (UFSCar), Brazil  
-- 🎓 **MSc in Health Sciences (Nursing)** — Federal University of São Carlos (UFSCar), Brazil  
+- 🎓 **MSc in Health Sciences (Nursing)** — Federal University of São Carlos (UFSCar), Brazil
+- 🎓 **PGCert in Leading Clinical Research Delivery** — University of Exter, UK
 - 🎓 **BSc in Gerontology** — Federal University of São Carlos (UFSCar), Brazil  
 - 🎓 **BSc in Statistics** (in progress) — Metropolitan United University  
 - 🏅 **IAOCR Internationally Qualified Clinical Research Professional & ICH-GCP Accredited (Reg 9829639)**
