@@ -4,9 +4,9 @@
 
 ---
 
-🌟 I lead clinical research delivery at a busy NHS Community Healthcare Trust in London (>2million patients a year). 
+🌟 I lead clinical research delivery at a busy NHS Community Healthcare Trust in London (> 2 million patients a year). 
 🧑‍⚕️ Experienced in recruiting over **1,000 participants** across diverse and vulnerable populations and clinical specialities.  
-📊 Currently developing skills in **Python**, **R**, **Power BI**, and **machine learning** to support clinical research.  
+📊 Currently developing skills in **Python**, **R**, **Power BI**, and **machine learning** to find solutions in clinical research.  
 🧠 Research interests: high complex RCTs, drug trials, medical device trials, ageing, and community-based interventions.  
 🤝 Advocate for inclusive and accessible research for all.
 
@@ -14,7 +14,8 @@
 - Building toolkits and resources to support clinicians starting in research.
 - Exploring AI and ML applications to improve research delivery (site set-up, monitoring, auditing, close-down, archiving).
 - Advancing my skills in clinical data science and statistics to guide decisions in the R&D industry.
-- Supporting new people in developing their research skills (study design, data analyses, publication).
+- Supporting new starters in developing their research skills (study design, data analysis, publication).
+- Academic and clinical supervisor for Master's students -  University of Exeter and University of Shenfield (UK)
 - Peer-reviewer for scientific journals (e.g. Elsevier, Springer Nature, Taylor & Francis, Sage, Frontiers, Cambridge University Press, Oxford University Press).
 
 - ## 🏅 Qualifications & Certifications
@@ -28,9 +29,8 @@
 - 🏅 **AHCS Registered Senior Clinical Research Practitioner (Reg 39728)**
 
 ## 📚 Learning
-- Statistics for AI.
+- AI applicability and solutions to enhance clinical trial delivery.
 - Python (pandas, sklearn, numpy), R, Power BI.
-- AI and machine learning for healthcare research.
 
 ## 🌍 Connect
 - LinkedIn: [https://www.linkedin.com/in/allan-bregola-b5a210130/]
